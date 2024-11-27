@@ -20,17 +20,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+fake ou natural?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+foto mulher linda e muito produzida postada em rede social
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+https://github.com/
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+## 🧐 Processo de criação
+seguindo orientação do desafio
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
