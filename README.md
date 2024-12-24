@@ -23,15 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 fake ou natural?
 
 ## 📒 Descrição
-foto mulher linda e muito produzida postada em rede social
+Mensagem natalina destinada aos clientes transmitida por um avatar criado por foto utilizada do meu arquivo 
 
 ## 🤖 Tecnologias Utilizadas
-https://github.com/
+IA Generativa chatgpt.com na roteirização
+IA Generativa D-ID para sintetização da imagem e voz 
 
 ## 🧐 Processo de criação
-seguindo orientação do desafio
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi utilizado o chatgpt.com para criar uma msg natalina destinada aos clientes transmitida por um avatar criado por foto utilizada do meu arquivo e através da IA Generativa D-ID Foi sintetizado voz e imagem
+
+
+## 🚀 
+https://studio.d-id.com/share?id=f24a59ea87c9bb40d5c1f16351712d32
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
